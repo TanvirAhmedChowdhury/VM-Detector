@@ -11,7 +11,7 @@ VM Detector is a GUI-based application built with C# and .NET, designed to detec
 
 
 ### 2. Real Windows Detection  
-![Real Windows Detection]<img width="960" alt="Capture2" src="https://github.com/user-attachments/assets/c1b07f4f-3123-40ff-a77d-4787fdded0ce">
+<img width="960" alt="Capture2" src="https://github.com/user-attachments/assets/c1b07f4f-3123-40ff-a77d-4787fdded0ce">
 
 
 
