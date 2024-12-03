@@ -1,0 +1,46 @@
+C:\Users\sdeve\source\repos\VM Detector\VM Detector\bin\Debug\net8.0-windows\VM Detector.exe
+C:\Users\sdeve\source\repos\VM Detector\VM Detector\bin\Debug\net8.0-windows\VM Detector.deps.json
+C:\Users\sdeve\source\repos\VM Detector\VM Detector\bin\Debug\net8.0-windows\VM Detector.runtimeconfig.json
+C:\Users\sdeve\source\repos\VM Detector\VM Detector\bin\Debug\net8.0-windows\VM Detector.dll
+C:\Users\sdeve\source\repos\VM Detector\VM Detector\bin\Debug\net8.0-windows\VM Detector.pdb
+C:\Users\sdeve\source\repos\VM Detector\VM Detector\obj\Debug\net8.0-windows\VM_Detector.Form1.resources
+C:\Users\sdeve\source\repos\VM Detector\VM Detector\obj\Debug\net8.0-windows\VM Detector.csproj.GenerateResource.cache
+C:\Users\sdeve\source\repos\VM Detector\VM Detector\obj\Debug\net8.0-windows\VM Detector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdeve\source\repos\VM Detector\VM Detector\obj\Debug\net8.0-windows\VM Detector.AssemblyInfoInputs.cache
+C:\Users\sdeve\source\repos\VM Detector\VM Detector\obj\Debug\net8.0-windows\VM Detector.AssemblyInfo.cs
+C:\Users\sdeve\source\repos\VM Detector\VM Detector\obj\Debug\net8.0-windows\VM Detector.csproj.CoreCompileInputs.cache
+C:\Users\sdeve\source\repos\VM Detector\VM Detector\obj\Debug\net8.0-windows\VM Detector.dll
+C:\Users\sdeve\source\repos\VM Detector\VM Detector\obj\Debug\net8.0-windows\refint\VM Detector.dll
+C:\Users\sdeve\source\repos\VM Detector\VM Detector\obj\Debug\net8.0-windows\VM Detector.pdb
+C:\Users\sdeve\source\repos\VM Detector\VM Detector\obj\Debug\net8.0-windows\VM Detector.genruntimeconfig.cache
+C:\Users\sdeve\source\repos\VM Detector\VM Detector\obj\Debug\net8.0-windows\ref\VM Detector.dll
+C:\Users\sdeve\source\repos\VM Detector\VM Detector\obj\Debug\net8.0-windows\VM_Detector.Properties.Resources.resources
+C:\Users\sdeve\source\repos\VM Detector\VM Detector\obj\Debug\net8.0-windows\VM Detector.csproj.ResolveComReference.cache
+C:\Users\sdeve\source\repos\VM Detector\VM Detector\bin\Debug\net8.0-windows\System.CodeDom.dll
+C:\Users\sdeve\source\repos\VM Detector\VM Detector\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\sdeve\source\repos\VM Detector\VM Detector\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\sdeve\source\repos\VM Detector\VM Detector\obj\Debug\net8.0-windows\VM Detector.csproj.AssemblyReference.cache
+C:\Users\sdeve\source\repos\VM Detector\VM Detector\obj\Debug\net8.0-windows\VM Detec.AB6FC319.Up2Date
+C:\Users\sdeve\source\repos\C#\VM Detector\VM Detector\bin\Debug\net8.0-windows\VM Detector.exe
+C:\Users\sdeve\source\repos\C#\VM Detector\VM Detector\bin\Debug\net8.0-windows\VM Detector.deps.json
+C:\Users\sdeve\source\repos\C#\VM Detector\VM Detector\bin\Debug\net8.0-windows\VM Detector.runtimeconfig.json
+C:\Users\sdeve\source\repos\C#\VM Detector\VM Detector\bin\Debug\net8.0-windows\VM Detector.dll
+C:\Users\sdeve\source\repos\C#\VM Detector\VM Detector\bin\Debug\net8.0-windows\VM Detector.pdb
+C:\Users\sdeve\source\repos\C#\VM Detector\VM Detector\bin\Debug\net8.0-windows\System.CodeDom.dll
+C:\Users\sdeve\source\repos\C#\VM Detector\VM Detector\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\sdeve\source\repos\C#\VM Detector\VM Detector\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\sdeve\source\repos\C#\VM Detector\VM Detector\obj\Debug\net8.0-windows\VM Detector.csproj.AssemblyReference.cache
+C:\Users\sdeve\source\repos\C#\VM Detector\VM Detector\obj\Debug\net8.0-windows\VM Detector.csproj.ResolveComReference.cache
+C:\Users\sdeve\source\repos\C#\VM Detector\VM Detector\obj\Debug\net8.0-windows\VM_Detector.Form1.resources
+C:\Users\sdeve\source\repos\C#\VM Detector\VM Detector\obj\Debug\net8.0-windows\VM_Detector.Properties.Resources.resources
+C:\Users\sdeve\source\repos\C#\VM Detector\VM Detector\obj\Debug\net8.0-windows\VM Detector.csproj.GenerateResource.cache
+C:\Users\sdeve\source\repos\C#\VM Detector\VM Detector\obj\Debug\net8.0-windows\VM Detector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdeve\source\repos\C#\VM Detector\VM Detector\obj\Debug\net8.0-windows\VM Detector.AssemblyInfoInputs.cache
+C:\Users\sdeve\source\repos\C#\VM Detector\VM Detector\obj\Debug\net8.0-windows\VM Detector.AssemblyInfo.cs
+C:\Users\sdeve\source\repos\C#\VM Detector\VM Detector\obj\Debug\net8.0-windows\VM Detector.csproj.CoreCompileInputs.cache
+C:\Users\sdeve\source\repos\C#\VM Detector\VM Detector\obj\Debug\net8.0-windows\VM Detec.AB6FC319.Up2Date
+C:\Users\sdeve\source\repos\C#\VM Detector\VM Detector\obj\Debug\net8.0-windows\VM Detector.dll
+C:\Users\sdeve\source\repos\C#\VM Detector\VM Detector\obj\Debug\net8.0-windows\refint\VM Detector.dll
+C:\Users\sdeve\source\repos\C#\VM Detector\VM Detector\obj\Debug\net8.0-windows\VM Detector.pdb
+C:\Users\sdeve\source\repos\C#\VM Detector\VM Detector\obj\Debug\net8.0-windows\VM Detector.genruntimeconfig.cache
+C:\Users\sdeve\source\repos\C#\VM Detector\VM Detector\obj\Debug\net8.0-windows\ref\VM Detector.dll
